@@ -1,0 +1,8 @@
+127.0.0.1 - - [23/Mar/2024:10:32:58 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:10:33:00 +0530] "GET /SpringProject/ HTTP/1.1" 200 525
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:10:33:00 +0530] "GET /SpringProject/style.css HTTP/1.1" 404 754
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:10:33:05 +0530] "GET /SpringProject/addAlien?aid=28&aname=sabu HTTP/1.1" 200 274
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:10:33:05 +0530] "GET /SpringProject/style.css HTTP/1.1" 404 754
+127.0.0.1 - - [23/Mar/2024:10:36:29 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:10:36:30 +0530] "GET /SpringProject/ HTTP/1.1" 200 525
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:10:36:31 +0530] "GET /SpringProject/style.css HTTP/1.1" 404 754

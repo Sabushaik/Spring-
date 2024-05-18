@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.h2=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.jdbc=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=8
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=12
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=JobApp-1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.2.5
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Shikari App
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.telusko
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=JobApp-1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.telusko.JobApp
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

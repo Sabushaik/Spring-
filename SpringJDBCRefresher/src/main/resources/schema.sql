@@ -1,0 +1,1 @@
+create table Shikari ( Name varchar(50) , Age int , Phonenumber  bigint , Package int );

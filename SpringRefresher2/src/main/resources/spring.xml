@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean id="alien1" class="com.telusko.SpringRefresher2.Alien" autowire="byType" >
+     <property name="age" value="21"></property>
+     
+     <!--  
+    <property name="comp" ref="lap1"></property> -->  <!-- This is property tag usage -->
+   
+    <!--  <constructor-arg ref="lap1" name="lap1"/>--><!-- This is Constructor tag usage  -->
+    
+   <!--    <constructor-arg name="age " value="21"/> -->
+    <!--  <constructor-arg index="0" value="21"/>
+     <constructor-arg index="1" value="21"/>-->
+    </bean>
+    
+ <bean  id="comp1" class="com.telusko.SpringRefresher2.Laptop"  >
+    </bean>
+    
+    <bean  id="comp" class="com.telusko.SpringRefresher2.Desktop" primary="true" >
+    </bean>
+   
+     
+</beans>

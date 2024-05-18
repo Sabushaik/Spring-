@@ -1,0 +1,15 @@
+package com.example.SpringJDBCdemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringJdbCdemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringJdbCdemoApplication.class, args);
+		
+		System.out.println("Hey allow me to write ");
+	}
+
+}
